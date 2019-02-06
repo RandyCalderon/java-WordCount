@@ -25,12 +25,13 @@ public class Main {
 
         String[] resultArray = wordArray.toArray(new String[0]);
 
-        // String s
+
         // ForEach
         for (String s : resultArray) {
             System.out.println(s); // Checking to see if split working as intended
         }
 
 
+        // Hashmap
     }
 }
